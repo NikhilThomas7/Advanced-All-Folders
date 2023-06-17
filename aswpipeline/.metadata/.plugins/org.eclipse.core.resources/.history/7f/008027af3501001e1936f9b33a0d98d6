@@ -1,0 +1,5 @@
+package com.ust.awspipe.resources;
+
+public class Connect {
+
+}
